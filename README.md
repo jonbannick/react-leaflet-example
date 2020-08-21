@@ -1,1 +1,1 @@
-imple react app with leaflet
+Simple react app with leaflet
